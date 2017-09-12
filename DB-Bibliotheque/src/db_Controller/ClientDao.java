@@ -15,7 +15,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 
 /*
- * Class for Client Data Access
+ * Class for Client Data Access////
  * */
 public class ClientDao {
 	
