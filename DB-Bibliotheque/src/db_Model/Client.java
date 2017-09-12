@@ -26,7 +26,7 @@ public class Client {
 	private boolean estSuspendu;
 	private ArrayList<Emprunt> emprunt;
 	
-	//=============================================
+	//==========================================
 	
 	public String getNomClient() {
 		return nomClient;
